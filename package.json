@@ -2,6 +2,9 @@
   "name": "traversymern",
   "version": "1.0.0",
   "description": "fullstack JS app built using udemy course",
+  "engines": {
+    "node": "8.9.0"
+  },
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
